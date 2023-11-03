@@ -1,0 +1,4 @@
+- source: slides.qmd
+  quarto-pub:
+    - id: 0d5e2baa-a59d-458d-8cc8-39a4a6beb639
+      url: 'https://nielsbantilan.quarto.pub/validating-and-testing-dataframes-with-pandera'
